@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe.config
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.pdb
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.Form1.resources
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.exe
+C:\Users\Lenovo\source\repos\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.pdb
